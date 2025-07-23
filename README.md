@@ -1,4 +1,6 @@
 # proxy-connect-dialer-go
+![Status](https://github.com/michel-laterman/proxy-connect-dialer-go/workflows/Go/badge.svg)
+[![GoDoc](https://pkg.go.dev/badge/github.com/michel-laterman/proxy-connect-dialer-go)](https://pkg.go.dev/github.com/michel-laterman/proxy-connect-dialer-go)
 
 proxy-connect-dialer-go is a pure go library with no additional imports that provides a custom dialer which uses the HTTP `CONNECT` method to connect through a proxy.
 
